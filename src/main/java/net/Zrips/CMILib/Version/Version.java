@@ -47,18 +47,18 @@ public enum Version {
     v1_13_R1(0),
     /** @deprecated Use {@link #v1_13_1} {@link #v1_13_2} */
     v1_13_R2(1, 2),
-    /** @deprecated Use {@link #v1_13_3} */
+    /** @deprecated Use  */
     v1_13_R3(3),
     /**
-     * @deprecated Use {@link #v1_14_0} {@link #v1_14_1} {@link #v1_14_2}
+     * @deprecated Use {@link #v1_14_0}  {@link #v1_14_2}
      *             {@link #v1_14_3} {@link #v1_14_4}
      */
     v1_14_R1(0, 1, 2, 3, 4),
-    /** @deprecated Use {@link #v1_14_5} */
+    /** @deprecated Use  */
     v1_14_R2(5),
     /** @deprecated Use {@link #v1_15_0} {@link #v1_15_1} {@link #v1_15_2} */
     v1_15_R1(0, 1, 2),
-    /** @deprecated Use {@link #v1_15_3} */
+    /** @deprecated Use  */
     v1_15_R2(3),
     /** @deprecated Use {@link #v1_16_0} {@link #v1_16_1} */
     v1_16_R1(0, 1),
