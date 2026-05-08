@@ -5,7 +5,7 @@ plugins {
     `java-library`
 }
 
-rootProject.version = "9.8.6.4"
+rootProject.version = "1.5.9.3"
 rootProject.group = "net.Zrips.CMILib"
 
 repositories {
